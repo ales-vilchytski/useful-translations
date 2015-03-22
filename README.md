@@ -19,5 +19,5 @@ List
 
 - Эргономика
 
- - Человеко-ориентированное проектирование считается вредным? (([EN](./human-centered-design-considered-harmful/article.en.md)|[RU](./human-centered-design-considered-harmful/article.ru.md) and clarification ([EN](./human-centered-design-considered-harmful/clarification.en.md)|[RU](./human-centered-design-considered-harmful/clarification.ru.md))
+ - Человеко-ориентированное проектирование считается вредным? (([EN](./human-centered-design-considered-harmful/article.en.md)|[RU](./human-centered-design-considered-harmful/article.ru.md), а также пояснение ([EN](./human-centered-design-considered-harmful/clarification.en.md)|[RU](./human-centered-design-considered-harmful/clarification.ru.md))
    Автор: Дон Норман, 2005
