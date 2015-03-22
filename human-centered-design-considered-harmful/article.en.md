@@ -1,7 +1,13 @@
-#Human-Centered Design Considered Harmful
+# Human-Centered Design Considered Harmful
+
+> http://www.jnd.org/dn.mss/human-centered.html
 
 > Column written for Interactions. © CACM, 2005. This is the author’s version of the work, the same as the published version except that I have corrected several typographical errors. It is posted here by permission of ACM for your personal use. It may be redistributed for non-commercial use only, provided this paragraph is included. The definitive version was published in Interactions, 12. 4, (July + August, 2005). Pp. 14-19.
+
 > NOTE: Please also see the clarification to this article: [HCD harmful? A Clarification.](http://www.jnd.org/dn.mss/hcd_harmful_a_clari.html)
+
+---
+> Clarification is also accessible from [this repository](./clarification.en.md)
 
 Human-Centered Design has become such a dominant theme in design that it is now accepted by interface and application designers automatically, without thought, let alone criticism. That’s a dangerous state — when things are treated as accepted wisdom. The purpose of this essay is to provoke thought, discussion, and reconsideration of some of the fundamental principles of Human-Centered Design. These principles, I suggest, can be helpful, misleading, or wrong. At times, they might even be harmful. Activity-Centered Design is superior.
 
@@ -114,3 +120,5 @@ All fields have fundamental presuppositions. Sometimes it is worthwhile to re-ex
 > Don Norman wears many hats, including co-founder of the Nielsen Norman group, Professor at Northwestern University, and author, his latest book being “Emotional Design.” He lives at www.jnd.org.
 
 > NOTE: Please also see the clarification to this article: [HCD harmful? A Clarification.](http://www.jnd.org/dn.mss/hcd_harmful_a_clari.html)
+
+> http://www.jnd.org Don Norman. Licensed under the Creative Commons Attribution, Non Commercial 4.0 International License.

@@ -10,14 +10,14 @@ List
    Author: Don Norman, 2005
 
 
-# Полезные переводы
+# РџРѕР»РµР·РЅС‹Рµ РїРµСЂРµРІРѕРґС‹
 
-Некоторые полезные статьи, переведённые мной на русский язык в магистратуре или на работе. Используйте их на своё усмотрение в соответствии с условиями лицензий.
-Буду признателен за помощь в нахождении и исправлении ошибок.
+РќРµРєРѕС‚РѕСЂС‹Рµ РїРѕР»РµР·РЅС‹Рµ СЃС‚Р°С‚СЊРё, РїРµСЂРµРІРµРґС‘РЅРЅС‹Рµ РјРЅРѕР№ РЅР° СЂСѓСЃСЃРєРёР№ СЏР·С‹Рє РІ РјР°РіРёСЃС‚СЂР°С‚СѓСЂРµ РёР»Рё РЅР° СЂР°Р±РѕС‚Рµ. РСЃРїРѕР»СЊР·СѓР№С‚Рµ РёС… РЅР° СЃРІРѕС‘ СѓСЃРјРѕС‚СЂРµРЅРёРµ РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё СЃ СѓСЃР»РѕРІРёСЏРјРё Р»РёС†РµРЅР·РёР№.
+Р‘СѓРґСѓ РїСЂРёР·РЅР°С‚РµР»РµРЅ Р·Р° РїРѕРјРѕС‰СЊ РІ РЅР°С…РѕР¶РґРµРЅРёРё Рё РёСЃРїСЂР°РІР»РµРЅРёРё РѕС€РёР±РѕРє.
 
-Список
+РЎРїРёСЃРѕРє
 
-- Эргономика
+- Р­СЂРіРѕРЅРѕРјРёРєР°
 
- - Человеко-ориентированное проектирование считается вредным? (([EN](./human-centered-design-considered-harmful/article.en.md)|[RU](./human-centered-design-considered-harmful/article.ru.md) and clarification ([EN](./human-centered-design-considered-harmful/clarification.en.md)|[RU](./human-centered-design-considered-harmful/clarification.ru.md))
-   Автор: Дон Норман, 2005
+ - Р§РµР»РѕРІРµРєРѕ-РѕСЂРёРµРЅС‚РёСЂРѕРІР°РЅРЅРѕРµ РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ СЃС‡РёС‚Р°РµС‚СЃСЏ РІСЂРµРґРЅС‹Рј? (([EN](./human-centered-design-considered-harmful/article.en.md)|[RU](./human-centered-design-considered-harmful/article.ru.md) and clarification ([EN](./human-centered-design-considered-harmful/clarification.en.md)|[RU](./human-centered-design-considered-harmful/clarification.ru.md))
+   РђРІС‚РѕСЂ: Р”РѕРЅ РќРѕСЂРјР°РЅ, 2005

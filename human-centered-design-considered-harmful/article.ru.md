@@ -121,4 +121,4 @@
 
 > Дон Норман является соучредителем «Nielsen Norman Group», профессором в Северо-Западном университете (США), автором. Одна из последних книг – «Emotional Design». Страница Дона Нормана в Интернете – http://www.jnd.org
 
-> Source: Don Norman, translation: Ales Vilchytski. Licensed under the Creative Commons Attribution, Non Commercial 4.0 International License.
+> Source (EN): Don Norman. Translation (RU): Ales Vilchytski. Licensed under the Creative Commons Attribution, Non Commercial 4.0 International License.
